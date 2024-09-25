@@ -15,4 +15,4 @@ Run npm run start
 ![Screenshot (319)](https://github.com/user-attachments/assets/353386ee-7916-492b-a44a-3e08318f244d)
 ![Screenshot (318)](https://github.com/user-attachments/assets/550900b9-b751-49d5-8935-03a6be4b078c)
 ![Screenshot (317)](https://github.com/user-attachments/assets/c17d848d-b724-465e-ba0b-79c564fa3fbf)
-![Screenshot (316)](https://github.com/user-attachments/assets/69388542-8b80-423a-abf4-1a1a4442dc53)
+
